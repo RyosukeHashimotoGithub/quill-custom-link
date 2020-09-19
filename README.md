@@ -1,4 +1,5 @@
 # quill-custom-link
+Customize tooltip for snow theme.
 
 ## Usage
 
